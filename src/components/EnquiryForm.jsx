@@ -204,7 +204,7 @@ export default function EnquiryForm({ defaultCourse = '' }) {
           <div style={{ marginTop: 20, display: 'flex', gap: 12, flexWrap: 'wrap' }}>
             <button type="submit" className="btn btn-primary btn-lg" style={{ flex: 1, justifyContent: 'center' }}>
               <Send size={18} />
-              <span>Submit Enquiry via WhatsApp</span>
+              <span>Submit Enquiry</span>
             </button>
             <a href="tel:6200093379" className="btn btn-outline btn-lg" style={{ justifyContent: 'center' }}>
               <Phone size={18} />
